@@ -3,6 +3,7 @@ public class SingLeton1//单线程
 {
 
     private static SinglLeton singleton = null;
+    private static SinglLeton1 singleton = null;
 
     private SingLeton1()
 
